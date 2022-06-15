@@ -1,0 +1,58 @@
+segment_sources:
+  IDFE38DD8:
+    type: origin_type
+    relation: translation
+    language: en
+  IDB311784:
+    type: origin_type
+    relation: translation
+    language: de
+  I91FF794E:
+    type: origin_type
+    relation: translation
+    language: es
+  I8FFF80F8:
+    type: origin_type
+    relation: translation
+    language: fr
+  I49C77549:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f63bcc8076f4448086d0740d6e253a01:
+    IDFE38DD8: e49eab3ee596484998d7a1fb207d64fb
+    IDB311784: d3e6438bbcd04277ad48250d1516c4da
+    I91FF794E: e7b8b04b56994d98b450a96d10179f69
+    I8FFF80F8: ccd346effe814fbeadd52dcf4fe66bf9
+    I49C77549: cd9a3b4559ed47d5804590fc0efa096d
+  ad8da8260855484c92ca451313db14c4:
+    IDFE38DD8: b7500551c1d84ad0bf078257830182d4
+    IDB311784: ce670b3b9af546089aa4483eae7883bc
+    I91FF794E: 1d406e9c93ac4118810731e4225df74d
+    I8FFF80F8: 965a077bf9254f3eb3b979dcfe651bbd
+    I49C77549: df9b6aa1e91540c58931e00b220229a0
+  c0355d77a25f48d494b52d62edbca389:
+    IDFE38DD8: 203ef31da06b4525837fe23f2650fabe
+    IDB311784: c40df714cb8f4321a6c7b7116a389119
+    I91FF794E: 24b7a4ac0ed04e80befdbbeeaca92601
+    I8FFF80F8: f73826818d1745a4b9a4c96ffe03766a
+    I49C77549: 5758bc9f1ff748dd99b38231ef210dc9
+  8b42802524954694b0e7a89ebea661c9:
+    IDFE38DD8: d302180d1a7e44a387d5d256e574733b
+    IDB311784: 6360f49aabe846089302abc610cd8c97
+    I91FF794E: 0e4cbbfb0f654ad5a5e3c4612b55afab
+    I8FFF80F8: 2055b082029643a69f3f1debd80df0ed
+    I49C77549: e0fded29bf6742758895579c0a99970e
+  fae0ece110ff4a16b91eb6bf50e433ca:
+    IDFE38DD8: 336cc6861b2b44c6b2b3857ff95a1cfe
+    IDB311784: f6d769cd43be4cdbb7596c9a5ca3a9b5
+    I91FF794E: 3e54ceb24ddc4d95a35ab93e59ab8562
+    I8FFF80F8: 4df7954d74a849b5a3c7c97e902b13ad
+    I49C77549: 68a43fc486eb4e2a9ada9ea68db2c920
+  35e559ce850a401983e0008d7b96aa5b:
+    IDFE38DD8: 015f573333524a00b134eff9cf35a8f2
+    IDB311784: 4f30ee48c4bf4d47a8424d3692aa41b5
+    I91FF794E: 5e5c03cb610e41a491396490b5d3bd52
+    I8FFF80F8: 54076f99a6b64f87a0123362320c26b1
+    I49C77549: 0f7d72c759a44b2ab0f32572c23b0e7c

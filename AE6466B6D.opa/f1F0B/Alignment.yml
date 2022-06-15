@@ -1,0 +1,19 @@
+segment_sources:
+  IDFE38DD8:
+    type: origin_type
+    relation: translation
+    language: en
+  I49C77549:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  eea2e22751ed41099b3c0458c9327c34:
+    IDFE38DD8: ab17ece08cb143b2a8d14b3b7e84ff1d
+    I49C77549: 84cec537dadf4432ba6c14651e5958d1
+  99d3103f6d9647a0a42dde3bf88e080f:
+    IDFE38DD8: e3a5bb1282ee4f7fb7dedff1b3d305c0
+    I49C77549: 038bbf0b54664df4b90198023c1f4a67
+  8a2f3314acae4610843fd0c210a2ae93:
+    IDFE38DD8: 05b706441c784638987f73bea72a44a9
+    I49C77549: 8f375186ee2e420c9e55d2ba5a2505af
